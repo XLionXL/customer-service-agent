@@ -1,0 +1,220 @@
+2026-03-24 09:21:53,506 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:06,204 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:06,206 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:06,207 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:06,208 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:06,211 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 09:22:51,910 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:51,912 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:51,913 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:51,914 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:51,915 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 09:22:51,917 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 09:31:10,928 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 09:31:10,930 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 09:31:10,931 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 09:31:10,933 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 09:31:10,934 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 09:31:10,937 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 09:35:43,388 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt 内容加载成功
+2026-03-24 09:35:45,829 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt 内容加载成功
+2026-03-24 09:35:48,569 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt 内容加载成功
+2026-03-24 09:35:52,930 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt 内容加载成功
+2026-03-24 09:35:55,475 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt 内容加载成功
+2026-03-24 09:35:55,507 - agent - ERROR - vector_store.py:101 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf加载失败：`pypdf` package not found, please install it with `pip install pypdf`
+Traceback (most recent call last):
+  File "/HARD-DATA/ZZQ/anaconda3/envs/lss_longchain/lib/python3.10/site-packages/langchain_community/document_loaders/parsers/pdf.py", line 359, in lazy_parse
+    import pypdf
+ModuleNotFoundError: No module named 'pypdf'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/rags/vector_store.py", line 80, in load_document
+    documents: list[Document] = get_file_documents(path)
+  File "/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/rags/vector_store.py", line 62, in get_file_documents
+    return pdf_loader(read_path)
+  File "/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/utils/file_handler.py", line 55, in pdf_loader
+    return PyPDFLoader(filepath, passwd).load()
+  File "/HARD-DATA/ZZQ/anaconda3/envs/lss_longchain/lib/python3.10/site-packages/langchain_core/document_loaders/base.py", line 43, in load
+    return list(self.lazy_load())
+  File "/HARD-DATA/ZZQ/anaconda3/envs/lss_longchain/lib/python3.10/site-packages/langchain_community/document_loaders/pdf.py", line 305, in lazy_load
+    yield from self.parser.lazy_parse(blob)
+  File "/HARD-DATA/ZZQ/anaconda3/envs/lss_longchain/lib/python3.10/site-packages/langchain_community/document_loaders/parsers/pdf.py", line 361, in lazy_parse
+    raise ImportError(
+ImportError: `pypdf` package not found, please install it with `pip install pypdf`
+2026-03-24 09:36:59,375 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 09:36:59,375 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 09:36:59,376 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 09:36:59,376 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 09:36:59,376 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 09:37:02,221 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf 内容加载成功
+2026-03-24 09:39:05,155 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt 内容加载成功
+2026-03-24 09:39:07,569 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt 内容加载成功
+2026-03-24 09:39:10,291 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt 内容加载成功
+2026-03-24 09:39:14,785 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt 内容加载成功
+2026-03-24 09:39:17,316 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt 内容加载成功
+2026-03-24 09:39:20,274 - agent - INFO - vector_store.py:98 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf 内容加载成功
+2026-03-24 09:43:55,522 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 09:43:55,523 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我的扫地机总是拖不干近
+2026-03-24 09:44:05,488 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_location
+2026-03-24 09:44:05,488 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-24 09:44:05,489 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_location调用成功
+2026-03-24 09:44:05,524 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 09:44:05,524 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 杭州
+2026-03-24 09:44:08,529 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_weather
+2026-03-24 09:44:08,529 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-24 09:44:08,530 - agent - INFO - middleware.py:24 - [tool monitor]工具get_weather调用成功
+2026-03-24 09:44:09,054 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-24 09:44:09,055 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 城市杭州天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低
+2026-03-24 09:44:14,120 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 09:44:14,120 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机拖地不干净原因'}
+2026-03-24 09:44:25,396 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 09:44:25,687 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有7条消息。
+2026-03-24 09:44:25,688 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 扫地机拖地不干净原因：参考资料为空，未提供具体信息。
+2026-03-24 09:46:24,223 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 09:46:24,224 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我的扫地机拖不干净地板
+2026-03-24 09:46:28,118 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 09:46:28,118 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机拖不干净地板原因及解决方法'}
+2026-03-24 09:47:11,775 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 09:47:12,947 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 09:47:12,948 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 扫地机拖不干净地板的原因包括：地板表面油污或灰尘过多、扫地机吸力不足、滚轮或刷子损坏、水箱或清洁液不足（湿拖模式）及地板障碍物。解决方法有：清理地板污渍、增加吸力设置、更换滚轮或刷子、补充水箱或清洁液、移除障碍物。
+2026-03-24 09:49:05,438 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 09:49:05,439 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我的扫地机拖不干净地板
+2026-03-24 09:49:11,106 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 09:49:11,106 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '我的扫地机拖不干净地板'}
+2026-03-24 09:49:36,090 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 09:49:36,138 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 09:49:36,138 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | ""
+2026-03-24 09:49:45,117 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 09:49:45,117 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人拖地不干净的解决方法'}
+2026-03-24 09:50:12,360 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 09:50:12,369 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-24 09:50:12,369 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 
+2026-03-24 09:50:21,694 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 09:50:21,695 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人拖地不干净的常见原因及解决步骤'}
+2026-03-24 09:50:55,085 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 09:50:55,089 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有7条消息。
+2026-03-24 09:50:55,090 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 
+2026-03-24 09:53:40,767 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 09:53:40,768 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 扫地机扫不干净
+2026-03-24 09:53:45,911 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 09:53:45,912 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机扫不干净的常见原因及解决方法'}
+2026-03-24 09:54:04,475 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 09:54:04,484 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 09:54:04,484 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 
+2026-03-24 09:54:26,492 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 09:54:26,492 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 09:54:26,493 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 09:54:26,493 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 09:54:26,493 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 09:54:26,494 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 13:18:49,653 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 13:18:49,654 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 13:19:10,374 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 13:19:10,375 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合的扫地机器人型号推荐'}
+2026-03-24 13:19:52,484 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 13:28:56,326 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 13:28:56,327 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 13:28:56,327 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 13:28:56,328 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 13:28:56,329 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 13:28:56,330 - agent - INFO - vector_store.py:76 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 13:29:07,182 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 13:29:07,183 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 13:29:24,622 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 13:29:24,622 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型扫地机器人推荐'}
+2026-03-24 13:30:21,325 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 13:30:21,449 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 13:30:21,450 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 未检索到相关参考资料
+2026-03-24 15:19:12,009 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:19:12,009 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:19:29,297 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:19:29,297 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型扫地机器人推荐'}
+2026-03-24 15:20:09,251 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:20:09,255 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 15:20:09,255 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 
+2026-03-24 15:22:37,631 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:22:37,632 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:22:54,826 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:22:54,827 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型扫地机器人推荐'}
+2026-03-24 15:23:41,208 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:23:41,419 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 15:23:41,420 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 未检索到小户型扫地机器人推荐参考资料
+2026-03-24 15:24:32,145 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:24:32,146 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型扫地机器人选购标准'}
+2026-03-24 15:25:39,764 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:25:40,308 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-24 15:25:40,308 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 小户型扫地机器人选购标准包括：尺寸小巧、智能避障能力强、续航时间长、吸力适中、操作简便、价格合理。
+2026-03-24 15:32:35,951 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:32:35,952 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:32:51,458 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:32:51,458 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合的扫地机器人类型'}
+2026-03-24 15:33:34,952 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:33:34,955 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 15:33:34,955 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 
+2026-03-24 15:34:56,534 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:34:56,534 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:35:06,179 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:35:06,179 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合哪些扫地机器人'}
+2026-03-24 15:36:12,906 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:36:12,933 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 15:36:12,934 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 无
+2026-03-24 15:38:28,123 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:38:28,124 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:38:38,042 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:38:38,043 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合哪些扫地机器人'}
+2026-03-24 15:39:23,455 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:39:23,940 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 15:39:23,943 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 小户型适合iRobot Roomba j7+、科沃斯D9、石头X2和小米扫地机器人。
+2026-03-24 15:41:43,222 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:41:43,223 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:42:08,089 - agent - INFO - vector_store.py:100 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt 内容加载成功
+2026-03-24 15:42:12,525 - agent - INFO - vector_store.py:100 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt 内容加载成功
+2026-03-24 15:42:17,394 - agent - INFO - vector_store.py:100 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt 内容加载成功
+2026-03-24 15:42:25,627 - agent - INFO - vector_store.py:100 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt 内容加载成功
+2026-03-24 15:42:30,303 - agent - INFO - vector_store.py:100 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt 内容加载成功
+2026-03-24 15:42:34,527 - agent - INFO - vector_store.py:100 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf 内容加载成功
+2026-03-24 15:44:19,499 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:44:19,499 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:44:34,060 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:44:34,060 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合哪些扫地机器人'}
+2026-03-24 15:45:28,050 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:45:28,089 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 15:45:28,089 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | ""
+2026-03-24 15:47:07,733 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 15:47:07,733 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 15:47:17,744 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 15:47:17,744 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合的扫地机器人类型推荐'}
+2026-03-24 15:47:54,130 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 15:48:16,571 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 15:48:16,572 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 15:48:16,572 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 15:48:16,573 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 15:48:16,573 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 15:48:16,574 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 16:00:29,218 - agent - INFO - vector_store.py:102 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt 内容加载成功
+2026-03-24 16:00:33,697 - agent - INFO - vector_store.py:102 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt 内容加载成功
+2026-03-24 16:00:38,809 - agent - INFO - vector_store.py:102 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt 内容加载成功
+2026-03-24 16:00:46,773 - agent - INFO - vector_store.py:102 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt 内容加载成功
+2026-03-24 16:00:51,248 - agent - INFO - vector_store.py:102 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt 内容加载成功
+2026-03-24 16:00:55,286 - agent - INFO - vector_store.py:102 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf 内容加载成功
+2026-03-24 16:01:07,797 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:07,798 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:07,798 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:07,799 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:07,799 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:07,800 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 16:01:30,615 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:30,616 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:30,617 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/维护保养.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:30,618 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/故障排除.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:30,619 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/选购指南.txt内容已经存在知识库内，跳过
+2026-03-24 16:01:30,621 - agent - INFO - vector_store.py:80 - [加载知识库]/HARD-DATA/ZHT/LSS/Langchain/04-综合项目/data/扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-24 16:02:22,076 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-24 16:02:22,077 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 小户型适合哪些扫地机器人
+2026-03-24 16:02:41,163 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-24 16:02:41,163 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '小户型适合哪些扫地机器人'}
+2026-03-24 16:03:08,896 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-24 16:03:09,188 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-24 16:03:09,189 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 小户型适合基础激光导航机型，例如米家1C和石头T4。
